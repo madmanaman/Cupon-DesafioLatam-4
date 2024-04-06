@@ -1,0 +1,68 @@
+/* Google Fonts */
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Background Colors Nav y Font */
+
+nav {
+  background-color: #28a745;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Altura Cards */
+.cards {
+  height: 80px;
+}
+/* Párrafos */
+
+p {
+  color: rgb(112, 112, 112);
+  font-family: "Roboto", sans-serif;
+}
+
+/* Precio */
+.d-flex {
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+.color {
+  color: #28a745;
+}
+
+/* Background Colors Section y Font */
+form {
+  background-color: #28a745;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Boton Enviar */
+
+.btn-border-color {
+  border-color: #dddddd;
+  font-family: "Roboto", sans-serif;
+  color: black;
+}
+
+/* Footer */
+.img {
+  width: 100px;
+}
+
+.font {
+  font-family: "Roboto", sans-serif;
+}
